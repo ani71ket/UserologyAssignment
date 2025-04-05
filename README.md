@@ -6,6 +6,10 @@ A multi page dashboard combining weather data, cryptocurrency information, and
 
 (https://github.com/ani71ket/UserologyAssignment)
 
+## 🚀 Live Demo
+
+userology-assignment-two.vercel.app
+
 ## 🛠 Tech Stack
 
 - **Next.js v13+** (App Router, SSR/SSG)
